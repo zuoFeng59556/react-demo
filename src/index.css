@@ -1,0 +1,15 @@
+.box {
+  margin: 10% 0 0 40%;
+}
+
+.input {
+  margin-right: 10px;
+}
+
+.item {
+  display: flex;
+}
+
+.name {
+  width: 100px;
+}
