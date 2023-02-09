@@ -39,7 +39,6 @@ function ToDoList() {
   )
 }
 
-
 function Item(props) {
   return (
     <ul>
@@ -50,4 +49,3 @@ function Item(props) {
     </ul>
   )
 }
-
